@@ -6,5 +6,6 @@
 4. hotfix 발생
 5. hotfix 발생-2
 6. feature 추가 
-6-1. feature 후 머지, 충돌시 머지 취소
+7. feature2추가 
+7-1. feature2 머지 오류 발생하겠지?
 
